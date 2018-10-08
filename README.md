@@ -10,5 +10,11 @@ $\mu = \frac{1}{N}\sum_i x_i$
 
 $\sigma^2 = \frac{1}{N} \sum_i (x_i - \mu)^2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQxMDgyMzhdfQ==
+eyJkaXNjdXNzaW9ucyI6eyJvcnNURmRRZGlWalY5SG53Ijp7In
+N0YXJ0Ijo2MiwiZW5kIjo2NSwidGV4dCI6ImVyZSJ9fSwiY29t
+bWVudHMiOnsiYXJuN09IdWtUVDJ4VW9mTCI6eyJkaXNjdXNzaW
+9uSWQiOiJvcnNURmRRZGlWalY5SG53Iiwic3ViIjoiZ2g6MzA4
+NDY2MSIsInRleHQiOiJNeSBjb21tZW50IiwiY3JlYXRlZCI6MT
+UzOTAwMzg2Njg0M319LCJoaXN0b3J5IjpbNDMxMDQ4ODkwXX0=
+
 -->
